@@ -72,4 +72,4 @@ React·Vite: 대화 화면과 조건 표시 / Java·Spring Boot: API, 검증과 
 
 ![선택한 안의 세금 효과와 매도 후 현금을 보여주는 보고서 장면.](images/report.png)
 
-선택한 안의 세금 효과와 매도 후 현금을 보여주는 보고서 장면.
+
